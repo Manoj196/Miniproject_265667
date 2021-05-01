@@ -1,5 +1,5 @@
 # Student Management System
-    This project manages the student data and performs operations on the data.
+    This project stores student data and helps to manage the student data.
 # operations performed
     1.Add Student details
     2.Display Student Details
