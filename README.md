@@ -1,1 +1,2 @@
-# Miniproject_265667
+# Student Management System
+   
